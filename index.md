@@ -83,7 +83,7 @@ impact on villages of the deployment of military operations in the Middle East.
 __Hommax Dynamic-DNS Panel__
 For <a href="www.hommaxsistemas.com">www.hommaxsistemas.com</a>
 
-Used PHP, TailwindCSS, AlpineJS , Laravel , Livewire , PHPUnit , ApexCharts , PowerDNS , WHMCS
+Used PHP, TailwindCSS, AlpineJS, Laravel, Livewire, PHPUnit, ApexCharts, PowerDNS, WHMCS
 
 
 - Dynamic DNS control panel for security cameras all over Spain
@@ -95,11 +95,15 @@ Used PHP, TailwindCSS, AlpineJS , Laravel , Livewire , PHPUnit , ApexCharts , Po
 __Transport Fred Gironès App Truck Driver's Daily Log Panel__
 For <a href="https://transportfredgirones.com">https://transportfredgirones.com</a>
 
-Used PHP , TailwindCSS , AlpineJS , Laravel , Livewire
+Used PHP, TailwindCSS, AlpineJS, Laravel, Livewire
 
 * Truck drivers dashboard to keep track of deliveries, KM's, orders, holidays and daily working sheet management.
 * Synchronization with Cartrack (https://www.cartrackgps.com) API
 * Refactored in version 2.0 to Vue.js 2.0 + Composition API
+
+## Tech I've used
+
+Inertia.js, Vue.js, Tailwind CSS,Elm Lang, Alpine.js, Nuxt.js,Webpack, Wordpress, Prestashop, Jekyll, Hugo, HTML, CSS, JavaScript, PHP, Laravel, Livewire, Mysql, Apache / NGINX, Rest APIs, Git, Github, Jira/BitBucket, cPanel, Plesk, PowerDNS, Docker, NixOS (my distro), Jenkins, Java, Android Development, Scrapy webcrawling, Emacs (my daily driver), VIM (previous daily driver), Godot
 
 ## Interests and people who influenced me
 
