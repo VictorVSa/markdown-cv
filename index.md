@@ -91,7 +91,7 @@ Used PHP | TailwindCSS | AlpineJS | Laravel | Livewire | PHPUnit | ApexCharts | 
 * Client purchases DNS zones, can add employees (technicians with limited access to create new zones) and monitorization of zones
 * Connected to a WHMCS billing platform
 * Ask for screenshots if needed
-* 
+
 #### Transport Fred Gironès App Truck Driver's Daily Log Panel
 `Jun 2020 - Oct 2021`
 For <a href="https://transportfredgirones.com">https://transportfredgirones.com</a>
