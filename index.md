@@ -2,7 +2,7 @@
 layout: cv
 title: Victor Vollbrecht's CV
 ---
-# Victor Vollbrect
+# Victor Vollbrecht
 Full-stack Developer.
 
 <div id="webaddress">
@@ -80,8 +80,7 @@ impact on villages of the deployment of military operations in the Middle East.
 
 ### Sample projects
 
-#### Hommax Dynamic-DNS Panel
-`Apr 2021 - Sep 2021`
+__Hommax Dynamic-DNS Panel__
 For <a href="www.hommaxsistemas.com">www.hommaxsistemas.com</a>
 
 Used PHP | TailwindCSS | AlpineJS | Laravel | Livewire | PHPUnit | ApexCharts | PowerDNS | WHMCS
@@ -92,8 +91,7 @@ Used PHP | TailwindCSS | AlpineJS | Laravel | Livewire | PHPUnit | ApexCharts | 
 * Connected to a WHMCS billing platform
 * Ask for screenshots if needed
 
-#### Transport Fred Gironès App Truck Driver's Daily Log Panel
-`Jun 2020 - Oct 2021`
+__Transport Fred Gironès App Truck Driver's Daily Log Panel__
 For <a href="https://transportfredgirones.com">https://transportfredgirones.com</a>
 
 Used PHP | TailwindCSS | AlpineJS | Laravel | Livewire
@@ -102,7 +100,7 @@ Used PHP | TailwindCSS | AlpineJS | Laravel | Livewire
 * Synchronization with Cartrack (https://www.cartrackgps.com) API
 * Refactored in version 2.0 to Vue.js 2.0 + Composition API
 
-### Interests and people who influenced me
+## Interests and people who influenced me
 
 Søren A. Kierkegaard, Bertrand Russell, James Randi and Jordan B. Peterson
 Clojure, Haskell, Processing (Generative art), Elm Lang, discussing about programming paradigms and microservices vs monolith, Kubernetes, NixOS
