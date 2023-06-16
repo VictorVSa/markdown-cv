@@ -3,7 +3,9 @@ layout: cv
 title: Victor Vollbrecht's CV
 ---
 # Victor Vollbrecht
-Full-stack Developer.
+Full-stack Developer 
+Tilburg-Noord, Tilburg, NL
+Born in Tilburg in 1991, spanish and german nationalities
 
 <div id="webaddress">
 <a href="mailto:victorvollbrecht@outlook.com">victorvollbrecht@outlook.com</a>
