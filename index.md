@@ -12,7 +12,7 @@ Full-stack Developer.
 
 
 ## Currently
-Full-time full-stack developer at ABEL Sensors
+__Full-time full-stack developer at ABEL Sensors__
 `Jan 2022 - Current`
 Delft, The Netherlands
 
