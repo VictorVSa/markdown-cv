@@ -4,7 +4,9 @@ title: Victor Vollbrecht's CV
 ---
 # Victor Vollbrecht
 Full-stack Developer 
+
 Tilburg-Noord, Tilburg, NL
+
 Born in Tilburg in 1991, spanish and german nationalities
 
 <div id="webaddress">
