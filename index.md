@@ -7,7 +7,7 @@ Full-stack Developer.
 
 <div id="webaddress">
 <a href="mailto:victorvollbrecht@outlook.com">victorvollbrecht@outlook.com</a>
-| <a href="https://victorvollbrecht.com">victorvollbrecht.com</a>
+, <a href="https://victorvollbrecht.com">victorvollbrecht.com</a>
 </div>
 
 
@@ -78,12 +78,12 @@ Granada, Spain
 Performed different administrative activities and content related to the islamic phenomenon. Study and analysis of the
 impact on villages of the deployment of military operations in the Middle East.
 
-### Sample projects
+## Sample projects
 
 __Hommax Dynamic-DNS Panel__
 For <a href="www.hommaxsistemas.com">www.hommaxsistemas.com</a>
 
-Used PHP | TailwindCSS | AlpineJS | Laravel | Livewire | PHPUnit | ApexCharts | PowerDNS | WHMCS
+Used PHP, TailwindCSS, AlpineJS , Laravel , Livewire , PHPUnit , ApexCharts , PowerDNS , WHMCS
 
 * Dynamic DNS control panel for security cameras all over Spain
 * Thousands of DNS records updated every minute
@@ -94,7 +94,7 @@ Used PHP | TailwindCSS | AlpineJS | Laravel | Livewire | PHPUnit | ApexCharts | 
 __Transport Fred Gironès App Truck Driver's Daily Log Panel__
 For <a href="https://transportfredgirones.com">https://transportfredgirones.com</a>
 
-Used PHP | TailwindCSS | AlpineJS | Laravel | Livewire
+Used PHP , TailwindCSS , AlpineJS , Laravel , Livewire
 
 * Truck drivers dashboard to keep track of deliveries, KM's, orders, holidays and daily working sheet management.
 * Synchronization with Cartrack (https://www.cartrackgps.com) API
