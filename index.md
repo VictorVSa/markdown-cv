@@ -85,11 +85,12 @@ For <a href="www.hommaxsistemas.com">www.hommaxsistemas.com</a>
 
 Used PHP, TailwindCSS, AlpineJS , Laravel , Livewire , PHPUnit , ApexCharts , PowerDNS , WHMCS
 
-* Dynamic DNS control panel for security cameras all over Spain
-* Thousands of DNS records updated every minute
-* Client purchases DNS zones, can add employees (technicians with limited access to create new zones) and monitorization of zones
-* Connected to a WHMCS billing platform
-* Ask for screenshots if needed
+
+- Dynamic DNS control panel for security cameras all over Spain
+- Thousands of DNS records updated every minute
+- Client purchases DNS zones, can add employees (technicians with limited access to create new zones) and monitorization of zones
+- Connected to a WHMCS billing platform
+- Ask for screenshots if needed
 
 __Transport Fred Gironès App Truck Driver's Daily Log Panel__
 For <a href="https://transportfredgirones.com">https://transportfredgirones.com</a>
